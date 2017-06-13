@@ -19,7 +19,7 @@
   <Group BlockingVersion = "0" Name = "videoplayer"/>
   <Group BlockingVersion = "0" Name = "wraptanoid"/>
   <FileList>
-    <File CRC32 = "5388fcb7" Compressed = "0" FileSize = "1c23ac" FileURL = "http://nl.nrk.no/kic/patcher/Core/Repository/data/win32/sound/World/Music/Cave1.ogg" GroupID = "" MajorVersion = "15" MinorVersion = "0" Preload = "0" TargetPath = "data/win32/sound/World/Music/Cave1.ogg"/>
-    <File CRC32 = "f7ccee98" Compressed = "0" FileSize = "173de2" FileURL = "http://nl.nrk.no/kic/patcher/test/Core/Repository/data/win32/sound/World/Music/Snowboard1.ogg" GroupID = "" MajorVersion = "1" MinorVersion = "0" Preload = "0" TargetPath = "data/win32/sound/World/Music/Snowboard1.ogg"/>
+    <File CRC32 = "5388fcb7" Compressed = "0" FileSize = "1c23ac" FileURL = "https://github.com/Eskils/Ostedalen/raw/master/loadscreen.png" GroupID = "" MajorVersion = "15" MinorVersion = "0" Preload = "0" TargetPath = "data/win32/Textures/Common/loadscreen.png"/>
+    <File CRC32 = "f7ccee98" Compressed = "0" FileSize = "173de2" FileURL = "http://nl.nrk.no/kic/patcher/test/Core/Repository/data/win32/sound/World/Music/Snowboard1.ogg" GroupID = "" MajorVersion = "1" MinorVersion = "0" Preload = "0" TargetPath = "data/win32/Textures/Common/Snowboard1.ogg"/>
   </FileList>
 </Patcher>
